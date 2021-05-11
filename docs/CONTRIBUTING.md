@@ -14,4 +14,4 @@ This project source code is managed on GitHub
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within this project, please send us an email at damienlagae@dmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send us an email at damienlagae@gmail.com. All security vulnerabilities will be promptly addressed.
