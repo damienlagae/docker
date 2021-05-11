@@ -11,8 +11,12 @@ We use GitHub issues only to discuss bugs and new features.
 
 ## Contributing
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md)
+Thank you for considering contributing to this project! Please review and abide the [contribution guide](docs/CONTRIBUTING.md).
+
+## Code of Conduct
+
+In order to ensure that this community is welcoming to all, please review and abide by the [Code of Conduct](docs/CODE_OF_CONDUCT.md).
 
 ## License
 
-This project is open-sourced software licensed under the [GPL-3.0 License](LICENSE).
+This project is open-sourced software licensed under the [AGPL-3.0 License](LICENSE).
