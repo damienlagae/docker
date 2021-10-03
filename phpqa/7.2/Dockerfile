@@ -5,3 +5,5 @@ RUN apk add --no-cache ldb-dev libldap openldap-dev \
 
 RUN apk add --no-cache libpng libpng-dev \
 && docker-php-ext-install gd
+
+RUN docker-php-ext-install pdo_mysql
