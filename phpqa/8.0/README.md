@@ -9,6 +9,7 @@ This image is based on this [`jakzal/phpqa` repository](https://github.com/jakza
 ## Additional extensions:
 * ldap
 * gd
+* pdo_mysql
 
 ## More information
 For more information see [`jakzal/phpqa` repository](https://github.com/jakzal/phpqa) 
